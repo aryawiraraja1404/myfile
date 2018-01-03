@@ -21,9 +21,9 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*3)+ 1);
 var xxx=null;
-if(x=="1"){xxx="http://www.linkssafe28.ga/p/forex-trading-tips-top-tips-for.html"}
-if(x=="2"){xxx="http://www.linkssafe28.ga/p/free-download-instaforex.html"}
-if(x=="3"){xxx="http://www.linkssafe28.ga/p/15-forex-strategies.html"}a_to_ve[i].href=xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="http://www.linksafedownload.ga/p/free-download-mobile-legends-bang-bang.html"}
+if(x=="2"){xxx="http://www.linksafedownload.ga/p/free-download-apps-youtube-go-apk-for.html"}
+if(x=="3"){xxx="http://www.linksafedownload.ga/p/free-download-apps-google-duo-video.html"}a_to_ve[i].href=xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
