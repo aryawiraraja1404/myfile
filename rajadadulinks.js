@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="10-reasons-you-need-digital-marketing"}
-if(x=="2"){xxx="the-top-5-free-online-courses-for"}
-if(x=="3"){xxx="15-essential-skills-all-digital"}
-if(x=="4"){xxx="the-digital-marketing-program-you-can"}a_to_ve[i].href="http://www.rajadadu.net/p/"+xxx+".html?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="http://www.rajadadu.net/p/10-reasons-you-need-digital-marketing.html"}
+if(x=="2"){xxx="http://www.rajadadu.net/p/the-top-5-free-online-courses-for.html"}
+if(x=="3"){xxx="http://www.rajadadu.net/p/15-essential-skills-all-digital.html"}
+if(x=="4"){xxx="http://www.rajadadu.net/p/the-digital-marketing-program-you-can.html"}a_to_ve[i].href=xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
